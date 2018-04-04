@@ -60,6 +60,29 @@ h1.fit_tittle{
 .footer p a:hover{
 text-decoration:underline;
 }
+.follow {
+    background: #f7f7f7;
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+}
+.follow-left {
+    padding: 20px 0;
+}
+.follow-left:nth-child(2){
+    border-left:1px solid #ccc;
+    border-right:1px solid #ccc;
+}
+.follow-left h3 {
+    color: #cd3060;
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-weight: 500;
+}
+.follow-left p{
+    font-size:14px;
+    color:#464646;
+    font-weight:500;
+}
 /*--status-bar--*/
 .body-back{
     background: #f7f7f7;
