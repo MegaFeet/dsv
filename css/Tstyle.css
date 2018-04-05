@@ -403,6 +403,7 @@ h5.pro-link {
     -moz-background-size: cover;
     -ms-background-size: cover;
     -o-background-size: cover;
+    min-height: 300px;
 }
 .details-shade{
     padding: 75px 0 0;
