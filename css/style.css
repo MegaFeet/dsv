@@ -25,7 +25,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .frame-border {
     width: 550px;
-    height: 930px;
+    height: 1030px;
     outline: none;
     border: solid 20px #000000;
     border-radius: 40px;
