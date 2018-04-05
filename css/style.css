@@ -426,19 +426,19 @@ i.fa.fa-google {
     color: #777;
 }
 .follow-left h4 {
-    color: #E68523;
+   color: #cd3060;
     margin-bottom: 15px;
-    font-size: 1.5em;
-    font-weight: 600;
+    font-size: 22px;
+font-weight: 500;
 }
 .follow-left p {
-    font-size: 1em;
-    color: #777;
-    font-weight: 600;
+  font-size:14px;
+    color:#464646;
+font-weight:500;
 }
 .follow-grids {
-    border-top: 1px solid#777;
-    border-bottom: 1px solid#777;
+border-left:1px solid #ccc;
+border-right:1px solid #ccc;
     margin-top: 1em;
 }
 .follow-left{
